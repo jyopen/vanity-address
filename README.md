@@ -1,5 +1,5 @@
 # substrate-vanity-address
-## substrate底层架构的靓号生成器([体验地址](https://va.substrate.top))
+## substrate底层架构的靓号生成器([体验地址](https://va.substrate.top) [体验地址](https://va.puti94.com))
 
 ## Project setup
 ```
